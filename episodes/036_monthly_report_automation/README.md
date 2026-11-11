@@ -8,7 +8,7 @@
 
 ## 1. Подготовьте файлы
 
-Возьмите учебный набор [monthly](../../outputs/contoso_foods_v1_01a115b7/youtube/monthly/). Данные вымышленные, компания — «Контосо Фудс».
+Возьмите учебный набор [monthly](https://github.com/renatlotfullin/powerbi-datasets/tree/main/episodes/036_monthly_report_automation/monthly). Данные вымышленные, компания — «Контосо Фудс».
 
 Скачайте папку и работайте с локальной копией. Если скачали ZIP, сначала распакуйте его. Нужны все 12 файлов из `input` и один файл из `acceptance`.
 
